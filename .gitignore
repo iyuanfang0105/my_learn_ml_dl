@@ -2,3 +2,6 @@
 .idea
 .ipynb_checkpoints
 *.plk
+neural_style_transfer/images
+neural_style_transfer/pretrained_model
+ml_chat_bot/corpus
